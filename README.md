@@ -11,4 +11,6 @@ This project analyzes Superstore sales data using SQL Server and Power BI.
 - Sales trends over time
 - Category and segment analysis
 - Regional sales performance
+## Dashboard Preview
+![Dashboard](dashboard.png)
 
